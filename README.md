@@ -11,7 +11,8 @@ Este é um mini projeto de blog desenvolvido para consolidar conhecimentos em Re
 Aqui estão algumas capturas de tela da aplicação em ação:
 
 #### Página inicial
-![mini-blog-pagina-principal-screenshot](https://github.com/LucasVitorVD/mini-blog/assets/86110408/b44bb1d1-52d9-467a-a24f-7df00cc1d3c2)
+![mini-blog-pagina-principal-screenshot](https://github.com/LucasVitorVD/mini-blog-project/assets/86110408/3e651467-8500-402d-90b4-390b8b9b80c5)
+
 
 ### Como usar
 Acesse http://localhost:5000 em um navegador da web
