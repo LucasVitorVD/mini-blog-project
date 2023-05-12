@@ -1,0 +1,46 @@
+.form_section {
+  width: 50vw;
+}
+
+.form_section__header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.form_section__header h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.form_section__form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+
+.form_section__btn {
+  background-color: green;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 0.8rem;
+  margin-inline: auto;
+  width: 7rem;
+  cursor: pointer;
+  transition: 0.1s;
+}
+
+.form_section__btn:hover,
+.form_section__btn:focus {
+  opacity: 0.8;
+}
+
+@media screen and (max-width: 769px) {
+  .form_section {
+    width: 80vw;
+  }
+}

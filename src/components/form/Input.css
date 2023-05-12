@@ -1,0 +1,25 @@
+.label_content {
+    display: flex;
+    flex-direction: column;
+    gap: .4rem;
+    width: 100%;
+}
+
+.label_content span {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #222;
+}
+
+.label_content__input, .label_content__input_textarea {
+    border: none;
+    border-bottom: 1px solid #636062;
+    background-color: transparent;
+    font-size: 1rem;
+    padding: .5rem .1rem;
+    outline: none;
+}
+
+.label_content__input_textarea {
+    font-family: 'Roboto', sans-serif;
+}
